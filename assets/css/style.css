@@ -16,11 +16,8 @@ body {
 }
 
 .image {
-	border-radius: 25px;
-	border: 5px solid black;
-	padding: 0px;
-	width: 350px;
-	height: 400px;
+	border-radius: 200px;
+	border: 1px solid black;
 }
 
 #rcorner1 {
@@ -29,7 +26,7 @@ body {
 	padding: 30px;
 	width: 700px;
 	height: 100px;
-	color: #000000;
+	color: #ffffff;
 }
 
 #Mis-trabajos .image-top {
@@ -41,4 +38,8 @@ body {
 
 #Contacto {
 	color: white;
+}
+
+.card-width {
+	width: 18rem;
 }
